@@ -34,3 +34,5 @@ nav:
   - Buildings: Categories/Buildings.md
   - Talents: Categories/Talents.md
   - Blueprints: Categories/Blueprints.md
+plugins:
+  - glightbox
