@@ -1,5 +1,10 @@
 site_name: OVERVOLT
 site_url: https://tembee2.github.io/OVERVOLT
+
+repo_name: tembee2/OVERVOLT
+repo_url: https://github.com/tembee2/OVERVOLT
+edit_uri: ""
+
 theme:
   name: material
   features:
