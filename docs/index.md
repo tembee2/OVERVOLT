@@ -2,6 +2,7 @@
 
 
 ## Quicklinks
+* [Starting out](starting-out.md)
 * [Materials](Categories/Materials.md)
 * [Buildings](Categories/Buildings.md)
 * Talents

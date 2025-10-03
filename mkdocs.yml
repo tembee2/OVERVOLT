@@ -30,6 +30,7 @@ theme:
   favicon: assets/Gear23.png
 nav:
   - Home: index.md
+  - Starting out: starting-out.md
   - Materials: Categories/Materials.md
   - Buildings: Categories/Buildings.md
   - Talents: Categories/Talents.md
