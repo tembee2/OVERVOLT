@@ -1,6 +1,13 @@
 ## Tutorial
 The ingame tutorial kinda sucks and I'm too lazy to fix it so here is an explanation of the controls and UI
 
+### Controls
+* C - Cancel
+* B - Delete
+* Z - Zoom
+* X - Pan
+* F2 - Commandline
+
 ## The shop
 <img src="https://raw.githubusercontent.com/tembee2/OVERVOLT/refs/heads/master/docs/assets/Shop.png" style="float:right"/>
 The shop is a menu on the right of your screen where you can buy buildings to place.
