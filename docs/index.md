@@ -3,7 +3,7 @@
 
 ## Quicklinks
 * [Materials](Categories/Materials.md)
-* Buildings
+* [Buildings](Categories/Buildings.md)
 * Talents
 * Blueprints
 * [Contributing](Wiki/Contributing.md)
