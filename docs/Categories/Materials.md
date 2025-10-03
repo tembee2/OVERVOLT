@@ -12,10 +12,10 @@
 * [Uranium](https://tembee2.github.io/OVERVOLT/Ores/Uranium)
 
 ## Alloys
-* [Brokenius](Alloys/Brokenius/)
-* [CombustionCrystal](/Alloys/CombustionCrystal/)
-* [Electrum](Alloys/Electrum/)
-* [Quantomium](Alloys/Quantomium/)
-* [Quartzium](Alloys/Quartzium/)
-* [Steel](Alloys/Steel/)
-* [Steelium](Alloys/Steelium/)
+* [Brokenius](https://tembee2.github.io/OVERVOLT/Alloys/Brokenius)
+* [CombustionCrystal](https://tembee2.github.io/OVERVOLT/Alloys/CombustionCrystal)
+* [Electrum](https://tembee2.github.io/OVERVOLT/Alloys/Electrum)
+* [Quantomium](https://tembee2.github.io/OVERVOLT/Alloys/Quantomium)
+* [Quartzium](https://tembee2.github.io/OVERVOLT/Alloys/Quartzium)
+* [Steel](https://tembee2.github.io/OVERVOLT/Alloys/Steel)
+* [Steelium](https://tembee2.github.io/OVERVOLT/Alloys/Steelium)
