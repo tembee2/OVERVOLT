@@ -1,0 +1,21 @@
+## Ores
+* [Amethyst](Ores/Amethyst.md)
+* [Copper](Ores/Copper.md)
+* [Diamond](Ores/Diamond.md)
+* [Gold](Ores/Gold.md)
+* [Indigonium](Ores/Indigonium.md)
+* [Iron](Ores/Iron.md)
+* [Palladium](Ores/Palladium.md)
+* [Quartz](Ores/Quartz.md)
+* [Silver](Ores/Silver.md)
+* [Timebloom](Ores/Timebloom.md)
+* [Uranium](Ores/Uranium.md)
+
+## Alloys
+* [Brokenius](Alloys/Brokenius.md)
+* [CombustionCrystal](Alloys/CombustionCrystal.md)
+* [Electrum](Alloys/Electrum.md)
+* [Quantomium](Alloys/Quantomium.md)
+* [Quartzium](Alloys/Quartzium.md)
+* [Steel](Alloys/Steel.md)
+* [Steelium](Alloys/Steelium.md)
