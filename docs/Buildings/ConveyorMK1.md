@@ -1,6 +1,6 @@
-| Stats          | Building name         |
+| Stats          | Conveyor MK1         |
 |----------------|-----------------------|
 | Cost           | 0                     |
-| Rarity         | 0-5 Stars             |
-| Description    | Something             |
-| Special        | ?                     |
+| Rarity         | 1 Star                |
+| Description    | Moves your ores forward. The start for every factory!             |
+| Speed        | 5                     |

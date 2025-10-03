@@ -1,6 +1,6 @@
-| Stats          | Building name         |
+| Stats          | Miner MK3         |
 |----------------|-----------------------|
-| Cost           | 0                     |
-| Rarity         | 0-5 Stars             |
-| Description    | Something             |
-| Special        | ?                     |
+| Cost           | 250                   |
+| Rarity         | 2 Stars               |
+| Description    | Mines at a EVEN higher speed. Has an VMT of 1            |
+| VMT        | 1                    |

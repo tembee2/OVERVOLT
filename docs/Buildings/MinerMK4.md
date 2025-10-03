@@ -1,6 +1,6 @@
-| Stats          | Building name         |
+| Stats          | Miner MK4         |
 |----------------|-----------------------|
-| Cost           | 0                     |
-| Rarity         | 0-5 Stars             |
-| Description    | Something             |
-| Special        | ?                     |
+| Cost           | 400                   |
+| Rarity         | 4 Stars               |
+| Description    | Mines at a SOMEHOW EVEN higher speed. Has an VMT of /2            |
+| VMT        | OMT/2                   |

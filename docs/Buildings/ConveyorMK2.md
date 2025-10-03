@@ -1,6 +1,6 @@
-| Stats          | Building name         |
+| Stats          | Conveyor MK2         |
 |----------------|-----------------------|
-| Cost           | 0                     |
-| Rarity         | 0-5 Stars             |
-| Description    | Something             |
-| Special        | ?                     |
+| Cost           | 15                     |
+| Rarity         | 1 Star                |
+| Description    | The MK1 conveyor, but better!             |
+| Speed        | 10                     |
