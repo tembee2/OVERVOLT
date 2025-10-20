@@ -5,6 +5,5 @@
 * [Starting out](starting-out.md)
 * [Materials](Categories/Materials.md)
 * [Buildings](Categories/Buildings.md)
-* Talents
-* Blueprints
+* [Talents](Categories/Talents.md)
 * [Contributing](Wiki/Contributing.md)
