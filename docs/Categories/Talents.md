@@ -12,7 +12,7 @@
 *  [Stock Market](https://tembee2.github.io/OVERVOLT/Talents/StockMarket)
 *   [Oil Mines](https://tembee2.github.io/OVERVOLT/Talents/OilMines)
 
-## 4 StarTalents
+## 4 Star
 * [Blade Runners](https://tembee2.github.io/OVERVOLT/Talents/BladeRunners)
 * [Shiny](https://tembee2.github.io/OVERVOLT/Talents/Shiny)
 
