@@ -1,10 +1,10 @@
 site_name: OVERVOLT
 site_url: https://tembee2.github.io/OVERVOLT
 site_description: The official wiki for OVERVOLT, a Roblox roguelike factoru building game! The wiki contains pages about the ores, buildings, alloys and a basic tutorial.
-site_author: Tembee2
+site_author: meteorbee
 
-repo_name: tembee2/OVERVOLT
-repo_url: https://github.com/tembee2/OVERVOLT
+repo_name: meteorbee/OVERVOLT
+repo_url: https://github.com/meteorbee/OVERVOLT
 edit_uri: ""
 
 theme:
